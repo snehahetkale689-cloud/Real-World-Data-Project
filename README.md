@@ -1,8 +1,8 @@
-# Cognifyz Technologies - Machine Learning Internship
+# Real-World Data Project
 
 ## About
 
-This repository contains the projects completed during my Machine Learning Internship at Cognifyz Technologies. The internship provided hands-on experience in data preprocessing, exploratory data analysis, regression, and classification using Python and Scikit-learn.
+Analayze a real-world restaurant dataset and discover useful insights.
 
 ## Tools & Technologies
 
